@@ -32,4 +32,5 @@ In order to help the umpire score a match betwen player *X* and player *Y*, you 
 - An IOS app written in swift with SwiftUI that helps the umpire with the scoring.
 - The app will run on a simulator or actual IOS device.
 - It will adapt to different IOS device screens (from iPhone Mini to Max Pro)
+- You will implement the REST scoring service. The service can just print out the scores it receives
 - The code will be versioned under _git_, on _GitHub_
